@@ -1,6 +1,6 @@
 # git-101
-<ul type="square"><font face="Century Gothic">
-<li>Benim Adım:<b>Munzir</b></li>
+<ul type="square" style="face:Century Gothic">
+<li>Benim Adım:<b> Munzir </b></li>
 <li>18 Yaşındayım</li>
 <li>Halep'te Doğdum</li>
 <li>Yazılım Mühendisliği okuyurom</li>
