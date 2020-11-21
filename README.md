@@ -6,7 +6,7 @@
 <li>Yazılım Mühendisliği okuyurom</li>
 <li>Fırat üniversitesi 1.sınıf</li>
 <li>
-E-mail: <a>https://www.facebook.com/profile.php?id=100004128738799</a>
+E-mail: <a href="https://www.facebook.com/profile.php?id=100004128738799" style="text-decoration:none">Facebook</a>
 </li>
 <li>Hopiler 
 <ol start="1" type="1">
