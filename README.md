@@ -7,7 +7,7 @@
 <li>Fırat üniversitesi 1.sınıf</li>
 <li>E-mail: <a>abualjud2002@gmail.com</a></li>
 <li>Hopiler 
-<ol>
+<ol type="1">
 <li>Futball</li>
 <li>Yüzmek</li>
 </ol>
