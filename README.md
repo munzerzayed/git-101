@@ -5,9 +5,11 @@
 <li>Halep'te Doğdum</li>
 <li>Yazılım Mühendisliği okuyurom</li>
 <li>Fırat üniversitesi 1.sınıf</li>
-<li>E-mail: <a>abualjud2002@gmail.com</a></li>
+<li>
+E-mail: <a>https://www.facebook.com/profile.php?id=100004128738799</a>
+</li>
 <li>Hopiler 
-<ol type="1">
+<ol start="1" type="1">
 <li>Futball</li>
 <li>Yüzmek</li>
 </ol>
