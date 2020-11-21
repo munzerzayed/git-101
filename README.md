@@ -6,5 +6,10 @@
 <li>Yazılım Mühendisliği okuyurom</li>
 <li>Fırat üniversitesi 1.sınıf</li>
 <li>E-mail: <a>abualjud2002@gmail.com</a></li>
-<li>Hopiler</li>
+<li>Hopiler 
+<ol>
+<li>Futball</li>
+<li>Yüzmek</li>
+</ol>
+</li>
 </ul>
