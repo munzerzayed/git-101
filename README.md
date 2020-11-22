@@ -16,6 +16,7 @@
 <ul>
 <li>Futball</li>
 <li>Yüzmek</li>
+<li>Tarihten Okumak</li>
 </ul>
 </font>
 </li>
